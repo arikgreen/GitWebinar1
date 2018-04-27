@@ -1,6 +1,7 @@
 package pl.arikgreen;
 
 public class Person {
-    string name;
+    private String name;
+    private int age;
 
 }
